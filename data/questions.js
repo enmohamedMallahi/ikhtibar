@@ -3,52 +3,52 @@ const questions = [
 	{
 		id: 1,
 		text: 'أنا اجتماعي ومبادر.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 2,
 		text: 'أستمتع بأن أكون محور الاهتمام.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 3,
 		text: 'أشعر بالراحة عند بدء محادثات مع الغرباء.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 4,
 		text: 'أنا حيوية في الحفلات والمناسبات الاجتماعية.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 5,
 		text: 'أفضل قضاء الوقت وحدي بدلاً من التواجد مع مجموعة من الأشخاص.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 6,
 		text: 'أستمتع بالتجمعات الاجتماعية والحفلات الكبيرة.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 7,
 		text: 'أحصل على طاقة من قضاء وقت مع الآخرين.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 8,
 		text: 'أتحدث في الغالب دون تفكير في مناقشات الجماعات.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 9,
 		text: 'أنا قوي وقادر على الدفاع عن نفسي.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 	{
 		id: 10,
 		text: 'أنا حيوية في الحفلات والمناسبات الاجتماعية.',
-		trait: 'openness',
+		trait: 'extraversion',
 	},
 
 	// Conscientiousness
